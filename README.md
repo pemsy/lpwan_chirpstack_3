@@ -537,7 +537,7 @@ get_downlink_data_delay="100ms"
   min_dr=0
   max_dr=5
 
- [network_server.network_settings.extra_channels]]
+[[network_server.network_settings.extra_channels]]
   frequency=867900000
   min_dr=0
   max_dr=5
