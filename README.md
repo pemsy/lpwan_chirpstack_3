@@ -106,11 +106,14 @@ sudo apt install chirpstack-network-server
 
 # Starting chirpstack
 ## start chirpstack-network-server
+```
 sudo systemctl start chirpstack-network-server
+```
 
 ## start chirpstack-network-server on boot
+```
 sudo systemctl enable chirpstack-network-server
-
+```
 
 ## ChirpStack Network Server log output
 ```
